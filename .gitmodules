@@ -1,0 +1,3 @@
+[submodule "shared-repo"]
+	path = shared-repo
+	url = https://github.com/hsib19/shared-repo.git
