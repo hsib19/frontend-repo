@@ -1,0 +1,16 @@
+{
+  "emulators": {
+    "singleProjectMode": true,
+    "ui": {
+      "enabled": true
+    },
+    "apphosting": {
+      "port": 5002,
+      "rootDirectory": "./",
+      "startCommand": "npm run dev"
+    },
+    "hosting": {
+      "port": 5000
+    }
+  }
+}
